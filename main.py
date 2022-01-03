@@ -40,7 +40,7 @@ class main:
 
 
 
-        exit_gui = Button(self.root,  text="Exit",command=self.exit, font=("times new roman", 15),bg='red', fg="white")
+        exit_gui = Button(self.root,  text="Exit",command=self.exit, font=("Roboto Mono", 15),bg='red', fg="white")
 
         exit_gui.place(x=700, y=440, height=30, width=80)
 

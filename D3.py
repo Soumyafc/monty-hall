@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from PIL import Image,ImageTk
-from first import *
+from logic import *
 from tkinter import messagebox
 
 
